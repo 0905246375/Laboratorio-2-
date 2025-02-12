@@ -1,0 +1,14 @@
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.AssemblyInfoInputs.cache
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.AssemblyInfo.cs
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.csproj.CoreCompileInputs.cache
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\bin\Debug\net8.0\Declaracion y Uso de Variables.exe
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\bin\Debug\net8.0\Declaracion y Uso de Variables.deps.json
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\bin\Debug\net8.0\Declaracion y Uso de Variables.runtimeconfig.json
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\bin\Debug\net8.0\Declaracion y Uso de Variables.dll
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\bin\Debug\net8.0\Declaracion y Uso de Variables.pdb
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.dll
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\refint\Declaracion y Uso de Variables.dll
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.pdb
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\Declaracion y Uso de Variables.genruntimeconfig.cache
+C:\Users\tahly\OneDrive\Escritorio\Lab 2\Declaracion y Uso de Variables\obj\Debug\net8.0\ref\Declaracion y Uso de Variables.dll
